@@ -1,0 +1,10 @@
+Django
+djangorestframework
+gTTS
+Pillow
+psycopg2-binary
+pytesseract
+gunicorn
+
+
+
