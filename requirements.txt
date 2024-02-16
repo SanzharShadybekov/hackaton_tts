@@ -7,4 +7,5 @@ pytesseract
 gunicorn
 drf-yasg
 django-cors-headers
-google-cloud-translate
+selenium
+webdriver-manager
